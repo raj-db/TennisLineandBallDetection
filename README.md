@@ -12,7 +12,7 @@ TrackNet was used for detecting tennis ball during the game.
 CatBoostRegressor was used to predict ball's bounces during the game based on ball trajectory detected in the previous step. 
 
 ### Court detection
-It was used neural network for detection 14 points of tennis court. F
+It was used neural network for detection 14 points of tennis court.
 ### How to run
 Prepare a video file with resolution 1280x720
 1. Clone the repository 
